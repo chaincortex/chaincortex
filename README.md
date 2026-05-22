@@ -14,9 +14,10 @@ Exploring:
 - Community infrastructure
 
 ## Connect
-- X/Twitter
-- LinkedIn
-- Telegram
+
+- [X/Twitter](https://x.com/ChainCortexAI)
+- [LinkedIn](https://www.linkedin.com/in/vikas-mishra-chaincortex/)
+- [Telegram](https://t.me/ChainCortexAi)
 
 <!--
 **chaincortex/chaincortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
