@@ -1,4 +1,22 @@
-## Hi there 👋
+# Chain Cortex ⚡
+
+Exploring:
+- AI
+- Web3
+- Automation
+- Digital Systems
+- Remote Opportunities
+
+## Currently Building
+- Digital ecosystem
+- AI workflows
+- Web3 research
+- Community infrastructure
+
+## Connect
+- X/Twitter
+- LinkedIn
+- Telegram
 
 <!--
 **chaincortex/chaincortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
